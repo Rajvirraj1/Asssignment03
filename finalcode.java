@@ -1,6 +1,6 @@
 package week13;
 
-public class hlo {
+public class finalcode {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
